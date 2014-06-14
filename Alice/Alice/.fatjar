@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Sep 16 21:47:36 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\xiaolong\\Desktop\\myRobot\\Robot.jar
+manifest.mergeall=true
+manifest.mainclass=com.context.Robot
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

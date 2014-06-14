@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/bsh.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer3.2.3Stable.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-3.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
